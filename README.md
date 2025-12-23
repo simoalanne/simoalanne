@@ -6,7 +6,7 @@ My main motivation is continuous learning and improving as a developer while des
 
 ## Focus
 - System design and architecture
-- Maintainable and well-structured code
+- Scalable and well-structured code
 - Practical problem-solving
 
 ## Favorite technologies
