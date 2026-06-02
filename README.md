@@ -1,13 +1,6 @@
 # Hi, I'm Simo 👋
 
-I'm a full-stack developer focused on building practical applications that solve real problems.  
-My main motivation is continuous learning and improving as a developer while designing maintainable solutions.
-
-
-## Focus
-- System design and architecture
-- Scalable and well-structured code
-- Practical problem-solving
+I’m a full-stack developer focused on building practical software that solves real problems. I’m especially interested in system design, architecture, and writing scalable, maintainable code that stays understandable as projects grow. What motivates me most is continuous learning through real-world development work, especially the kind that requires balancing technical decisions, product needs, and long-term maintainability.
 
 ## Favorite technologies
 
