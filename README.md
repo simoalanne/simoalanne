@@ -1,6 +1,6 @@
 # Hi, I'm Simo 👋
 
-I’m a full-stack developer focused on building practical software that solves real problems. I’m especially interested in system design, architecture, and writing scalable, maintainable code that stays understandable as projects grow. What motivates me most is continuous learning through real-world development work, especially the kind that requires balancing technical decisions, product needs, and long-term maintainability.
+Full-stack developer who builds practical software for real problems, with a strong interest in backend architecture and system design. I use AI agents to deliver fast, but the design decisions stay mine: interfaces that say exactly what they do, docs that match the code, and systems that stay maintainable as they grow.
 
 ## Favorite technologies
 
